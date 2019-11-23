@@ -2,7 +2,7 @@ package com.company;
 
 public class ServiceProvider {
 public static Atm_services getServices(String request){
-    if(request.equals("sbi")) {
+   if(request.equals("sbi")) {
         System.out.println("WELCOME TO SBI");
         return new SbiBank();
     }

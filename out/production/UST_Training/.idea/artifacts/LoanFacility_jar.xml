@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoanFacility:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoanFacility_jar</output-path>
+    <root id="archive" name="LoanFacility.jar">
+      <element id="module-output" name="LoanFacility" />
+      <element id="module-output" name="JDBCAPI" />
+      <element id="module-output" name="SavingsFacility" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/JDBCAPI_jar/JDBCAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,6 +1,7 @@
 package com.company;
 
 public class PnbBank implements Atm_services{
+    int bal;
     @Override
     public void withdraw() {
         System.out.println("WELCOME TO PNB WITHDRAW SERVICE");
@@ -15,6 +16,7 @@ public class PnbBank implements Atm_services{
     public void depositMoney() {
         System.out.println("WELCOME TO PNB DEPOSIT MONEY SERVICE");
     }
+
     public void printminiStatement() {
         System.out.println("PLEASE WAIT WE ARE PRINTING MINI STATEMENT");
     }

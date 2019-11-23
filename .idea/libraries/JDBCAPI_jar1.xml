@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JDBCAPI_jar1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/artifacts/JDBCAPI_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/out/artifacts/JDBCAPI_jar" recursive="false" />
+  </library>
+</component>

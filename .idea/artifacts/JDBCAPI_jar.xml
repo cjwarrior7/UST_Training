@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDBCAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDBCAPI_jar</output-path>
+    <root id="archive" name="JDBCAPI.jar">
+      <element id="module-output" name="JDBCAPI" />
+      <element id="module-output" name="LoanFacility" />
+      <element id="module-output" name="SavingsFacility" />
+      <element id="library" level="project" name="JDBCAPI_jar1" />
+    </root>
+  </artifact>
+</component>

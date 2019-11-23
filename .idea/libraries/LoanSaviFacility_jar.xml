@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LoanSaviFacility_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/artifacts/LoanFacility_jar" />
+      <root url="file://$PROJECT_DIR$/out/artifacts/SavingsFacility_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/out/artifacts/LoanFacility_jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/out/artifacts/SavingsFacility_jar" recursive="false" />
+  </library>
+</component>

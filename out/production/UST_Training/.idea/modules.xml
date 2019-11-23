@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment4/Assignment4.iml" filepath="$PROJECT_DIR$/Assignment4/Assignment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment5/Assignment5.iml" filepath="$PROJECT_DIR$/Assignment5/Assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment6/Assignment6.iml" filepath="$PROJECT_DIR$/Assignment6/Assignment6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankCustomer/BankCustomer.iml" filepath="$PROJECT_DIR$/BankCustomer/BankCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoJdbc/DemoJdbc.iml" filepath="$PROJECT_DIR$/DemoJdbc/DemoJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File_Handling/File_Handling.iml" filepath="$PROJECT_DIR$/File_Handling/File_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCAPI/JDBCAPI.iml" filepath="$PROJECT_DIR$/JDBCAPI/JDBCAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoanFacility/LoanFacility.iml" filepath="$PROJECT_DIR$/LoanFacility/LoanFacility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SavingsFacility/SavingsFacility.iml" filepath="$PROJECT_DIR$/SavingsFacility/SavingsFacility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SurpriseTest/SurpriseTest.iml" filepath="$PROJECT_DIR$/SurpriseTest/SurpriseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadProg/ThreadProg.iml" filepath="$PROJECT_DIR$/ThreadProg/ThreadProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankingSystem/Threads.iml" filepath="$PROJECT_DIR$/BankingSystem/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketBooking/TicketBooking.iml" filepath="$PROJECT_DIR$/TicketBooking/TicketBooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UST_Training.iml" filepath="$PROJECT_DIR$/UST_Training.iml" />
+    </modules>
+  </component>
+</project>
