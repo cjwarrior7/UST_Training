@@ -1,5 +1,6 @@
 package com.company.stud;
 
+import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.sql.*;
 import java.util.ArrayList;
@@ -68,11 +69,20 @@ public class Student {
             Pattern pattern = Pattern.compile(EMAIL_PATTERN);
             Matcher regexmatcher = pattern.matcher(email_id);
             if (!regexmatcher.matches()) {
-                System.out.println("jjkk");
+
                 throw new Exception("Email format is not correct");
             }
+           PreparedStatement pst1=con1.prepareStatement("Insert into student(sname,stream,yop,percentage,contact,email) values(?,?,?,?,?,?)");
+           pst1.setString(1,sname);
+           pst1.setString(2,stream);
+           pst1.setInt(3,yop);
+           pst1.setDouble(4,percentage);
+           pst1.setBigDecimal(5,new BigDecimal(contact_no));
+           pst1.setString(6,email_id);
+           pst1.execute();
 
 
+            System.out.println("*********registered successfully**********");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (SQLException e) {
