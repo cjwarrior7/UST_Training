@@ -1,6 +1,10 @@
 import com.company.stud.Student;
 
 import java.math.BigInteger;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Scanner;
 
 public class Client {
@@ -18,7 +22,15 @@ public class Client {
         BigInteger contact_no=sc.nextBigInteger();
         System.out.println("Enter your email");
         String email_id=sc.next();
-        Student stud=new Student(sname,stream,yop,percentage,contact_no,email_id);
+
+        System.out.println("Enter your dob");
+        String dob=sc.next();
+//        try {
+//            df.parse(dob);
+//        } catch (ParseException e) {
+//            e.printStackTrace();
+//        }
+        Student stud=new Student(sname,stream,yop,percentage,contact_no,email_id,dob);
         try {
             stud.register();
         } catch (Exception e) {

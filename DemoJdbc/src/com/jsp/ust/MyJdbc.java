@@ -63,7 +63,7 @@ public class MyJdbc {
            /** while (rs.next()) {
 
 
-                System.out.println(rs.getInt("id") + " " + rs.getString("ename") + " " + rs.getString("salary"));
+                System.out.println( );
 
 
 
