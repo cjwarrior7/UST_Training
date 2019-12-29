@@ -16,9 +16,11 @@
       <module fileurl="file://$PROJECT_DIR$/DemoJdbc/DemoJdbc.iml" filepath="$PROJECT_DIR$/DemoJdbc/DemoJdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/File_Handling/File_Handling.iml" filepath="$PROJECT_DIR$/File_Handling/File_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelBilling/HotelBilling.iml" filepath="$PROJECT_DIR$/HotelBilling/HotelBilling.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBCAPI/JDBCAPI.iml" filepath="$PROJECT_DIR$/JDBCAPI/JDBCAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoanFacility/LoanFacility.iml" filepath="$PROJECT_DIR$/LoanFacility/LoanFacility.iml" />
       <module fileurl="file://$PROJECT_DIR$/SavingsFacility/SavingsFacility.iml" filepath="$PROJECT_DIR$/SavingsFacility/SavingsFacility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopApp/ShopApp.iml" filepath="$PROJECT_DIR$/ShopApp/ShopApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SurpriseTest/SurpriseTest.iml" filepath="$PROJECT_DIR$/SurpriseTest/SurpriseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadProg/ThreadProg.iml" filepath="$PROJECT_DIR$/ThreadProg/ThreadProg.iml" />
       <module fileurl="file://$PROJECT_DIR$/BankingSystem/Threads.iml" filepath="$PROJECT_DIR$/BankingSystem/Threads.iml" />
