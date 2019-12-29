@@ -5,4 +5,7 @@ public class MyException extends Exception {
         super(message);
     }
 
+    public MyException(String message,String msg) {
+        super(message);
+    }
 }
