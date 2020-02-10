@@ -14,18 +14,29 @@
       <module fileurl="file://$PROJECT_DIR$/BankCustomer/BankCustomer.iml" filepath="$PROJECT_DIR$/BankCustomer/BankCustomer.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoJdbc/DemoJdbc.iml" filepath="$PROJECT_DIR$/DemoJdbc/DemoJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ESS_Portal_App_Dev/ESS_Portal_App_Dev.iml" filepath="$PROJECT_DIR$/ESS_Portal_App_Dev/ESS_Portal_App_Dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailSend/EmailSend.iml" filepath="$PROJECT_DIR$/EmailSend/EmailSend.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/File_Handling/File_Handling.iml" filepath="$PROJECT_DIR$/File_Handling/File_Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/HotelBilling/HotelBilling.iml" filepath="$PROJECT_DIR$/HotelBilling/HotelBilling.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBCAPI/JDBCAPI.iml" filepath="$PROJECT_DIR$/JDBCAPI/JDBCAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoanFacility/LoanFacility.iml" filepath="$PROJECT_DIR$/LoanFacility/LoanFacility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many2Many/Many2Many.iml" filepath="$PROJECT_DIR$/Many2Many/Many2Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many2One/Many2One.iml" filepath="$PROJECT_DIR$/Many2One/Many2One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One2Many/One2Many.iml" filepath="$PROJECT_DIR$/One2Many/One2Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One2One/One2One.iml" filepath="$PROJECT_DIR$/One2One/One2One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneSimulator/PhoneSimulator.iml" filepath="$PROJECT_DIR$/PhoneSimulator/PhoneSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SavingsFacility/SavingsFacility.iml" filepath="$PROJECT_DIR$/SavingsFacility/SavingsFacility.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShopApp/ShopApp.iml" filepath="$PROJECT_DIR$/ShopApp/ShopApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Demo/Spring_Demo.iml" filepath="$PROJECT_DIR$/Spring_Demo/Spring_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SurpriseTest/SurpriseTest.iml" filepath="$PROJECT_DIR$/SurpriseTest/SurpriseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadProg/ThreadProg.iml" filepath="$PROJECT_DIR$/ThreadProg/ThreadProg.iml" />
       <module fileurl="file://$PROJECT_DIR$/BankingSystem/Threads.iml" filepath="$PROJECT_DIR$/BankingSystem/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicketBooking/TicketBooking.iml" filepath="$PROJECT_DIR$/TicketBooking/TicketBooking.iml" />
       <module fileurl="file://$PROJECT_DIR$/UST_Training.iml" filepath="$PROJECT_DIR$/UST_Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onetomanyexample1/onetomanyexample1.iml" filepath="$PROJECT_DIR$/onetomanyexample1/onetomanyexample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onetooneexample1/onetooneexample1.iml" filepath="$PROJECT_DIR$/onetooneexample1/onetooneexample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

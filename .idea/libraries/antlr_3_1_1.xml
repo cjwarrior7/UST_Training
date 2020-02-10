@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="antlr-3.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/antlr-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/hibernate-core-5.0.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/hibernate-entitymanager-3.5.3-Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/hibernate-jpa-2.1-api-1.0.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/javaee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/jboss-logging-3.3.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Documents/jar/conf and jar jdk8/lib/mysql-connector-java-8.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="springwithhibernatecareng">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Documents/jar/spring conf/Mybank_appilication" />
+      <root url="file://$PROJECT_DIR$/../Documents/jar/spring conf/spring with hibernate" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Documents/jar/spring conf/Mybank_appilication/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Documents/jar/spring conf/spring with hibernate" recursive="false" />
+  </library>
+</component>
